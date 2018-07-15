@@ -9,10 +9,11 @@
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="20dp"
+        android:textSize="50dp"
+        android:text="   OFF"
         android:textStyle="bold"
         android:textColor="#2051ce"
-        android:id="@+id/checkbox"
+        android:id="@+id/customCheckbox"
         android:button="@drawable/drawable_custom_checkbox"
         android:layout_centerInParent="true"/>
 
